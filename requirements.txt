@@ -1,0 +1,6 @@
+langchain==0.1.14
+chromadb==0.4.22
+sentence-transformers==2.2.2
+torch
+transformers
+ollama
