@@ -2,7 +2,7 @@
 
 A simple RAG-based command-line Q&A system built as part of the **Kalpit Pvt Ltd UK – AI Intern Assignment**.
 
-## 🚀 Features
+## Features
 - Loads Ambedkar’s speech from `speech.txt`
 - Splits text into chunks
 - Creates embeddings using **sentence-transformers/all-MiniLM-L6-v2**
@@ -12,4 +12,4 @@ A simple RAG-based command-line Q&A system built as part of the **Kalpit Pvt Ltd
 
 ---
 
-## 📁 Project Structure
+## Project Structure
